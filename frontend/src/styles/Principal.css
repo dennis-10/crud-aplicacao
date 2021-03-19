@@ -1,0 +1,70 @@
+.menu {
+    display: flex;
+
+    margin-inline: 5vw;
+    margin-top: 3vw;
+    
+    min-height: 40vh;
+    border-style: solid;
+}
+
+#titulo {
+    font-weight: bolder;
+}
+
+.div-btn{
+    font-size: 1.4vw;
+}
+
+.div-btn-2 {
+    color: rgb(75, 149, 245);
+    font-size: 1.2vw;
+}
+
+.btn-2 {
+
+    border-width: 0.1vh;
+    border-style: solid;
+    border-color: rgb(75, 149, 245);
+    border-top: none;
+    border-right: none;
+    border-left: none;
+
+    background-color: white;
+}
+
+.criar-btn {
+    color:black
+}
+
+a {
+    color: rgb(75, 149, 245);
+    font-size: 1.2vw;
+
+    text-decoration: none;
+}
+
+.btn {
+    margin-inline: 15vw;
+    margin-top: 3vw;
+    margin-bottom: 3vw;
+
+    border-width: 0.2vw;
+    border-style: solid;
+    border-color: black;
+}
+
+ul {
+    list-style: none;
+}
+
+table{
+    margin-left: 15%;
+    margin-right: 25%;
+    width: 70vw;
+    height: 20vh;
+
+
+    border-style: solid;
+}
+

@@ -1,0 +1,49 @@
+.mini-menu {
+    margin-inline: 30vw;
+    border-style: solid;
+    min-height: 40vh;
+
+    margin-top: 20vh;
+}
+
+.bloco {
+    margin-left: 2vw;
+    padding-top: 2vh;
+}
+
+.input {
+    margin-left: 2vw;
+    margin-bottom: 2vw;
+}
+
+.itens {
+    display: flex;
+
+    flex-direction: row;
+}
+
+.titulo {
+    margin-top: -20px;
+    font-weight:bolder;
+}
+
+.a-text{
+    color: black;
+}
+
+.botoes .btn-3{
+    margin-top: 2vh;
+    margin-left:40vw ;
+    border-style: solid;
+    border-color: black;    
+}
+
+.botoes .btn-4{
+    margin-left:10vw;
+    border-style: solid;
+    border-color: black;
+}
+
+.btn-text {
+    font-size: 1.4vw;
+}
